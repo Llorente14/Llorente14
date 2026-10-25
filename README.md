@@ -2,13 +2,13 @@
 
 # Axel Chrisdy Sanjaya
 
-**Informatics Engineering Student · Full-Stack Development · Applied AI**
+**Informatics Engineering Student · Full-Stack Development**
 
 I build practical digital products with structured backend systems, reliable user flows, and clear technical communication.
 
-<a href="https://linkedin.com/in/axel-chrisdy-b1a469302"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" alt="LinkedIn"></a>
-&nbsp;&nbsp;
-<a href="mailto:axel.chrisdy@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Email"></a>
+<a href="https://linkedin.com/in/axel-chrisdy-b1a469302"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"></a>
+&nbsp;
+<a href="mailto:axel.chrisdy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email"></a>
 
 </div>
 
@@ -22,27 +22,31 @@ The tools below are grouped by how I have applied them, rather than by arbitrary
 
 ### End-to-end product development
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,laravel,php,tailwind,alpinejs,supabase,postgres,fastapi,py&perline=12" alt="Full-stack development technologies">
+<img src="https://skillicons.dev/icons?i=laravel,php,ts,js,tailwind,supabase,postgres,mongodb&perline=8" alt="Full-stack development technologies">
 
 Applied across full-stack web applications, Progressive Web Apps, authentication, transactional workflows, reporting, database policies, REST services, and AI-assisted features.
 
 ### Academic and prototype work
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,cpp,matlab,unity,mysql&perline=7" alt="Academic and prototype technologies">
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,matlab,unity,mysql&perline=6" alt="Academic and prototype technologies">
 
 Used for mobile development, numerical methods, data analysis, object-oriented programming, algorithms, database exercises, and interactive prototypes.
 
 ### Workflow and delivery
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,ubuntu,notion&perline=6" alt="Development workflow tools">
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,ubuntu&perline=5" alt="Development workflow tools">
+&nbsp;
+<img src="https://cdn.simpleicons.org/excalidraw/6965DB" width="48" alt="Excalidraw">
 
-Applied through feature branches, atomic commits, pull requests, CI workflows, Jira-linked tasks, technical documentation, and Linux-based learning environments.
+Applied through feature branches, atomic commits, pull requests, CI workflows, Jira-linked tasks, technical documentation, and Linux-based learning environments. Diagrams and planning sketches are drawn in Excalidraw.
 
 ### Currently learning
 
-<img src="https://skillicons.dev/icons?i=swift,apple&perline=2" alt="Swift and Apple platform development">
+<img src="https://skillicons.dev/icons?i=spring&perline=1" alt="Spring Boot">
 
-Swift and iOS application development.
+Spring Boot backend development.
+
+🇯🇵 **Nihongo (日本語)**: learning the Japanese language.
 
 ## Experience and recognition
 
