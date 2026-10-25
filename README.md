@@ -20,17 +20,17 @@ I am an Informatics Engineering student at Universitas Tarumanagara with interes
 
 The tools below are grouped by how I have applied them, rather than by arbitrary percentage ratings.
 
-### End-to-end product development
+### Main stack
 
-<img src="https://skillicons.dev/icons?i=laravel,php,ts,js,tailwind,supabase,postgres,mongodb&perline=8" alt="Full-stack development technologies">
+<img src="https://skillicons.dev/icons?i=ts,js,tailwind,supabase,postgres,mongodb,nestjs,flutter,dart&perline=9" alt="Main stack technologies">
 
-Applied across full-stack web applications, Progressive Web Apps, authentication, transactional workflows, reporting, database policies, REST services, and AI-assisted features.
+Used for full-stack web applications, Progressive Web Apps, authentication, transactional workflows, reporting, database policies, REST services, cross-platform mobile apps, and AI-assisted features.
 
 ### Academic and prototype work
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,matlab,unity,mysql&perline=6" alt="Academic and prototype technologies">
+<img src="https://skillicons.dev/icons?i=cpp,java,unity,mysql,php,laravel&perline=6" alt="Academic and prototype technologies">
 
-Used for mobile development, numerical methods, data analysis, object-oriented programming, algorithms, database exercises, and interactive prototypes.
+Used with Laragon for local web development, and for numerical methods, data analysis, object-oriented programming, algorithms, database exercises, game and interactive prototypes.
 
 ### Workflow and delivery
 
